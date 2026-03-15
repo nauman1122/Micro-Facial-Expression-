@@ -1,0 +1,10 @@
+pandas
+numpy
+torch
+torchvision
+torchaudio
+transformers
+vidro
+scikit-learn
+opencv-python
+mediapipe
